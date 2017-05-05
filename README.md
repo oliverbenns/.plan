@@ -16,6 +16,8 @@ This post structure outputs like this:
     - 2017-01-01 - A New Year.md
     - 2017-01-02.md
 
+You can see an example of of [Sen](https://github.com/oliverbenns/sen) in action on my [personal blog](https://github.com/oliverbenns/blog).
+
 ## Getting Started
 
 1. First steps require you to have the bash scripts and correct structure. You can do this by either:
