@@ -18,10 +18,9 @@ This post structure outputs like this:
 
 ## Getting Started
 
-1. First steps require you to have the bash scripts and correct structure. You can do this a few ways:
-  - Fork this repo (would be cool to reference back to here!)
-  - Clone this repo
-  - Copy + paste files
+1. First steps require you to have the bash scripts and correct structure. You can do this by either:
+  - Cloning this repo
+  - Copy + paste the shell files (keeping the structure of course)
 2. Change the `EDIT_CMD` variable to be the command you use to open your editor. `atom` / `vi` / `emacs` etc.
 
 ## Publishing
